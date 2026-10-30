@@ -1,0 +1,21 @@
+1. Aim
+To write a Python program to demonstrate the use of the re (Regular Expression) module for pattern matching and searching operations in Python.
+
+2. Algorithm
+Start the program.
+
+Import the re module.
+
+Declare a string containing some text.
+
+Use re.search() to search for a specific pattern.
+
+Use re.findall() to find all occurrences of a pattern.
+
+Use re.sub() to replace a matching pattern.
+
+Use re.match() to check whether a pattern occurs at the beginning of the string.
+
+Display the results.
+
+Stop the program.
